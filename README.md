@@ -18,7 +18,7 @@ Link: https://stellar.expert/explorer/testnet/contract/CDOUENI25E2OHN3MO6OEXBIXE
 
 Contract's screenshots:
 
-<img width="1905" height="896" alt="DEPLOYYY" src="https://github.com/user-attachments/assets/11aef127-4be3-406f-996c-28dca82fa1c5" />
+<img width="1796" height="920" alt="image" src="https://github.com/user-attachments/assets/ea25df69-321b-456a-94cc-1f3178b555ee" />
 
 
 # Future scopes
