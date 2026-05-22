@@ -18,7 +18,8 @@ Link: https://stellar.expert/explorer/testnet/contract/CDOUENI25E2OHN3MO6OEXBIXE
 
 Contract's screenshots:
 
-[Kéo thả ảnh chụp màn hình Deploy và Invoke của bạn vào đây]
+<img width="1905" height="896" alt="DEPLOYYY" src="https://github.com/user-attachments/assets/11aef127-4be3-406f-996c-28dca82fa1c5" />
+
 
 # Future scopes
 - Build a web interface (Frontend) for users to easily track their progress.
