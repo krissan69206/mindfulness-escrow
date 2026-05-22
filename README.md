@@ -1,1 +1,29 @@
-# mindfulness-escrow
+# Title
+Mindfulness Commitment Escrow
+
+# Description
+A decentralized escrow application built on Stellar to help people maintain positive mental health habits (like meditating or digital detox). Users lock their funds as a commitment.
+
+# Vision
+Provide a transparent and immutable way to encourage positive mental health habits using blockchain escrow.
+
+# Features
+- `deposit`: Users lock their XLM tokens into the contract to start a challenge.
+- `resolve_success`: Admin refunds the tokens if the user successfully completes their mental health goals.
+- `resolve_fail`: If the user fails, tokens are sent to a charity address.
+
+# Contract
+Contract ID: CDOUENI25E2OHN3MO6OEXBIXEVCFRUCJNZ3YDZLGIB62JUDXDSCKTDOF
+Link: https://stellar.expert/explorer/testnet/contract/CDOUENI25E2OHN3MO6OEXBIXEVCFRUCJNZ3YDZLGIB62JUDXDSCKTDOF
+
+Contract's screenshots:
+
+[Kéo thả ảnh chụp màn hình Deploy và Invoke của bạn vào đây]
+
+# Future scopes
+- Build a web interface (Frontend) for users to easily track their progress.
+- Integrate custom tokens for different types of mental health challenges.
+
+# Profile
+Nguyễn Thục Nghi - Student 24127207 (Class 24C05) at Ho Chi Minh City University of Science (HCMUS). 
+Skills: C++, SQL Server, Algorithms, Operating Systems.
