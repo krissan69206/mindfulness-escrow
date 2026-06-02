@@ -12,6 +12,9 @@ Provide a transparent and immutable way to encourage positive mental health habi
 - `resolve_success`: Admin refunds the tokens if the user successfully completes their mental health goals.
 - `resolve_fail`: If the user fails, tokens are sent to a charity address.
 
+# New transaction link: 
+https://stellar.expert/explorer/testnet/tx/e886fd15ed498a480be4ce1710398df40eb583c6ff3794a918b8c91324bf73b5
+
 # Contract
 Contract ID: CDOUENI25E2OHN3MO6OEXBIXEVCFRUCJNZ3YDZLGIB62JUDXDSCKTDOF
 Link: https://stellar.expert/explorer/testnet/contract/CDOUENI25E2OHN3MO6OEXBIXEVCFRUCJNZ3YDZLGIB62JUDXDSCKTDOF
